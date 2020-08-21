@@ -31,7 +31,7 @@ The following instructions should help you complete these tasks.
 
 ### TASK 0: Install necessary software
 There are many tools available in Python for creating visualisations (plots, charts etc). These include matplotlib, plotly, plotly_express and many other less popular more niche ones. Dash, which we use in this lab, uses [plotly](https://plot.ly/python/getting-started/) in the backend. It is important to know this because some things in the Dash documentation are glossed over as they are concepts from plotly.
-To do this lab, you will need to install Dash. From your terminal use, `$ pip3 install dash`. This assumes that you are using Python3 which we shall use. All this will still work on Python 2 but you shouldn't be using Python 2 as it will be [deprecated in a few months](https://pythonclock.org/).
+To do this lab, you will need to install Dash. From your terminal use, `$ pip3 install dash`. This assumes that you are using Python3 which we shall use. All this will still work on Python 2 but you shouldn't be using Python 2 as [it is deprecated](https://pythonclock.org/).
 
 ### TASK 1: Plot a bar graph showing the production of the power plant p2 over the first 5 months of the year
 Open a Python script and insert the following code ```TODO: Should this be given as a file or included inline?```:
